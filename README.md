@@ -1,5 +1,7 @@
 # Inastronomy2.0
 
+##Features
+
 -> Has a Razorpay Payment Gateway System.
 
 -> The Payment option is Dynamic based on each product.
@@ -13,3 +15,11 @@
 -> Each plan has a different section of papers.
 
 -> Has a Blog Post Page.
+
+##Requirements
+
+-> Needs an Xampp server.
+
+-> Needs MySql database to store data.
+
+-> Apache Module and MySql modules are used from Xampp.
