@@ -1,6 +1,6 @@
 # Inastronomy2.0
 
-##Features
+## Features
 
 -> Has a Razorpay Payment Gateway System.
 
@@ -16,7 +16,7 @@
 
 -> Has a Blog Post Page.
 
-##Requirements
+## Requirements
 
 -> Needs an Xampp server.
 
